@@ -1,0 +1,14 @@
+-PSR é o tipo de recomendação de padronização 
+
+-1 contra barra (\) entende-se a aspas como parte do texto
+    Para diretorio e afins utiliza-se duas(\\)
+
+-90% do composer não é obrigatório
+
+-packagist.org -> site para procura de dependencias
+
+- quando coloca o ^ na frente da versão, ele pega a versão e superioires.
+
+-"composer init" no terminal cria um composer automaticamente
+
+-o plugin "tabnine" serve para um algoritmo aprender os padrões

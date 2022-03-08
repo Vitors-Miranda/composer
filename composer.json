@@ -1,0 +1,27 @@
+{
+    "name": "nome/projeto",
+    "description": "descrição",
+    "minimum-stability": "stable",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Seu nome",
+            "email": "email@dominio.com"
+        }
+    ],
+    "config": {
+        "vendor-dir": "vendor"
+    },
+    "autoload": {
+        "psr-4": {
+            "Source\\": "src/"
+        },
+        "files": [
+            "src/config.php"
+        ]
+    },
+    "require": {
+        "phpunit/php-timer": "^5.0"
+    }
+}
